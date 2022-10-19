@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KshkB
 - 👀 I’m interested in mathematical programming, algorithmic development, quantum fields and strings;
 - 🌱 I’m currently learning about geometric programming;
-- 💞️ I’m looking to collaborate on projects relating to problems in mathematics and physics;
+- 💞️ I’m looking to collaborate on projects in finance, mathematics and physics;
 - 📫 How to reach me: email, k3bettad7gmail2com, replace the primes with dots.
 
 Check out my personal website [kshkb.info](https://kshkb.info) for more info!
