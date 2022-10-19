@@ -2,7 +2,9 @@
 - 👀 I’m interested in mathematical programming, algorithmic development, quantum fields and strings;
 - 🌱 I’m currently learning about geometric programming;
 - 💞️ I’m looking to collaborate on projects relating to problems in mathematics and physics;
-- 📫 How to reach me: email.
+- 📫 How to reach me: email, k3bettad7gmail2com, replace the primes with dots.
+
+Check out my personal website https://kshkb.info for more info!
 
 <!---
 KshkB/KshkB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
