@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects in finance, mathematics and physics;
 - 📫 How to reach me: email, k3bettad7gmail2com, replace the primes with dots.
 
-Check out my personal website [kshkb.info](https://kshkb.info) for more info!
+⭐⭐ Check out my personal website [kshkb.info](https://kshkb.info) for more info!⭐⭐
 
 <!---
 KshkB/KshkB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
